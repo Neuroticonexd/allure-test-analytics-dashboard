@@ -10,7 +10,7 @@ Enterprise-grade test result visualization with intelligent failure analysis and
 - **70% faster** test failure analysis
  
 ## 🎬 Live Demo
-**[👉 Try it here](https://yourusername.github.io/allure-test-analytics-dashboard/)**
+**[👉 Try it here](https://Neuroticonexd.github.io/allure-test-analytics-dashboard/)**
  
 ## 🛠️ Tech Stack
 JavaScript (14,000+ lines) • Azure DevOps APIs • HTML5 Canvas • JSZip • File System Access API
